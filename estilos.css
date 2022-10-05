@@ -1,0 +1,21 @@
+.padre{
+    display: flex;
+gap: 30px;
+flex-wrap: nowrap;
+background-color: blueviolet;
+height: 800px;
+justify-content:flex-start ;
+padding: 0px 20 px;
+flex-direction: row;
+border-color: black solid;
+}
+
+.hijo{background-color: crimson;
+width: 200px;
+height: 200px;
+
+}
+.elemento3
+{
+    align-self: center;
+}
